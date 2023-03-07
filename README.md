@@ -1,1 +1,1 @@
-Text von Lokal
+Wir verwenden einen ganz anderen Text
