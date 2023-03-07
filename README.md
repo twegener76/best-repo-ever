@@ -1,1 +1,1 @@
-Text vom Server
+Wir verwenden einen ganz anderen Text
